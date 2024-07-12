@@ -1,1 +1,1 @@
-# Building-BlockChain-in-Go
+# Building BlockChain in Go
